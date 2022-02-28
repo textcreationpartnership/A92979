@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters from Ireland of the late good success of the Parliament forces there one from Col. Hewson Governour of Dublin, sent to the Honourable William Lenthall Esq; Speaker of the Parliament. VVherein were inclosed the summons, and other passages between him and the governour of the strong garison and fort of Ballisanon. Together vvith the propositions tendred by them, and refused. As also the articles upon which the same was surrendred, dated the first day of March 1649. Two other letters from William Basil Esquire, Atturney Generall for the state in Ireland. March 18. 1649. These letters and papers are appointed to be printed and published. Imprimatur, Henry Scobel. Cler. Parliamenti.;</title>
+            <author>Hewson, John, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92979</idno>
+            <idno type="STC">Wing S2772</idno>
+            <idno type="STC">Thomason E534_19</idno>
+            <idno type="STC">ESTC R203740</idno>
+            <idno type="EEBO-CITATION">99863577</idno>
+            <idno type="PROQUEST">99863577</idno>
+            <idno type="VID">115785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115785)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E534[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters from Ireland of the late good success of the Parliament forces there one from Col. Hewson Governour of Dublin, sent to the Honourable William Lenthall Esq; Speaker of the Parliament. VVherein were inclosed the summons, and other passages between him and the governour of the strong garison and fort of Ballisanon. Together vvith the propositions tendred by them, and refused. As also the articles upon which the same was surrendred, dated the first day of March 1649. Two other letters from William Basil Esquire, Atturney Generall for the state in Ireland. March 18. 1649. These letters and papers are appointed to be printed and published. Imprimatur, Henry Scobel. Cler. Parliamenti.;</title>
+                  <author>Hewson, John, d. 1662.</author>
+                  <author>Basill, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson in Smithfield near the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "March. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115785:1" rendition="simple:additions"/>
+            <p>Severall Letters from IRELAND Of the late Good ſucceſs of the Parliament forces there ONE From Col. <hi>Hewſon</hi> Governour of <hi>Dublin,</hi> ſent to the <hi>Honourable</hi> William Lenthall Eſq; <hi>Speaker of the</hi> PARLIAMENT.</p>
+            <p>VVherein were incloſed the Summons, <hi>and other paſſages between him and the Governour of</hi> the ſtrong Gariſon and Fort of <hi>Balliſanon.</hi>
+            </p>
+            <p>Together VVith the Propoſitions tendred by them, and refuſed. <hi>As alſo the Articles upon which</hi> the ſame was ſurrendred, Dated the <hi>Firſt day of March</hi> 1649.</p>
+            <p>TWO Other Letters from <hi>William Baſil</hi> Eſquire, Atturney Generall for the State in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>March 18. 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>THeſe <hi>Letters</hi> and <hi>Papers</hi> are appointed to be Printed and publiſhed.</p>
+                        <closer/>
+                        <postscript>
+                           <p>Imprimatur,</p>
+                           <closer>
+                              <signed>Henry Scobel. Cler. Parliamenti;</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London Printed for Robert Ibbitſon in Smithfield near the Queens-head Tavern, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115785:2"/>
+            <pb n="1" facs="tcp:115785:2"/>
+            <head>To the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHen his Excellency marched from <hi>Dublin</hi> towards <hi>Munſter,</hi> he left me intruſted with that Garriſon, my ſelfe, and thoſe left with me at that time being ſicke: The firſt party that recovered were ſent after the Army; to wit, about 800 Foot, and 200 Horſe, which fought and beat the Enemy upon their march: Some more of thoſe ſicke men that were left recovering, and ſome recruits comming over. After I had ſurpriſed the ſtrong Fort upon the Bog of <hi>Allin,</hi> and taken <hi>Caſtle-Martin</hi> in the County of <hi>Kildare,</hi> and placed a Garriſon therein. About the latter end of December, marched with a party of 1000 Horſe and Foot into the Iſland of <hi>Allin,</hi> and ſummoned <hi>Killmaog</hi> therein, but finding it not feazable to ſtorme without Guns, I marched to <hi>Rabride</hi> and <hi>Ponſers Grange,</hi> and tooke them, and placed two ſtrong Garriſons there, which did give me good footing in the County of <hi>Kildare,</hi> then ſent a party and took <hi>Kildare, Hertwell,</hi> and <hi>Cotlingſtowne,</hi> three uſefull Garriſons in the ſaid County; and proviſions being ſpent returned back to <hi>Dublin,</hi> there endeavouring to get Guns, Mortar peeces, and other neceſſaries ready to draw forth againe with all poſſible ſpeed; in the in<g ref="char:EOLhyphen"/>terim I received Propoſitions from the Governour and Officers in the ſtrong Garriſon and Fort of <hi>Balliſonan,</hi> the originall whereof, I here incloſed preſent you with all under their owne hands, which being by me utterly rejected.</p>
+            <p>I marched upon Tueſday the 26 of Feb. with a party of 2000 Foot, and 1000 Horſe, towards the County of <hi>Kildare,</hi> and took with me one Culverin, and one Demi-culverin, and one Mortar-piece, the Enemy fired their Garriſons of Fort of Leaſe, Blackreath, &amp; the forementioned Caſtle of Kilmaog in the Iſland of Allin; but I ſhall eaſily make it te<g ref="char:EOLhyphen"/>nable againe, it being very uſefull for your ſervice, they alſo did blow up the Caſtle of Athy, where they had a ſtrong Garriſon, and broke up the Bridge. Upon the 28 Feb. I marched from the Naas, and about four a clock with the Van of the party, I came to Belliſonan a ſtrong Garriſon, double Works, and double moted, full of water one within another, and amount with a Fort upon it, moſt of the Officers with me eſteeming the taking of it to be unfeazable, it being late, and I unwilling to loſe time, did ſend in a Summons, a copy whereof is here incloſed, &amp; the incloſed anſwer under the Governours hand was preſently returned, &amp; the Town which was without his Works by him burned that night, I cauſed a Bat<g ref="char:EOLhyphen"/>tery to be made and planted the Artillery, and made a Fort for the ſecu<g ref="char:EOLhyphen"/>rity therof, having intelligence that the Lord of Caſtlehaven, with 4000
+<pb n="2" facs="tcp:115785:3"/>Horſe and Foot would come to raiſe me within two dayes, in which Fort I could ſecure the Guns and batter their Works, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to fight the Enemy if need were, we played our Guns and Morter-peece at the Fort upon the Mount, intending before night to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orme it, ha<g ref="char:EOLhyphen"/>ving Ladders, and all neceſſaries ready, but before any breach was made, the Governour did ſend me a paper which is here incloſed, where<g ref="char:EOLhyphen"/>unto the incloſed anſwer was returned, and he treated with me about the ſurrender, which was concluded accordingly. The Articles ſ<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> with both our hands herewith, is repreſented unto you.</p>
+            <p>And now Sir, you have without the loſſe of one man this ſtrong place, and thereby moſt of the County of Kildare; thoſe Garriſon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this County yet remaining, as Caſtle Dormount, and Kilkenny, with others, I hope you ſhall have a good account thereof ſpeedily from,</p>
+            <closer>
+               <dateline>Belliſonan <date>March 3. 1649.</date>
+               </dateline>
+               <signed>Your humble ſervant, <hi>Ioh. Hewſon</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am now marching the Army to reduce that place you poſſeſſe unto the obedience of the Parliament of <hi>England,</hi> and it being apparent to the world that God is making inquiſition in <hi>Ireland</hi> for innocent blood, how farre you and thoſe with you may be concerned therein, I ſhall obſerve by your Anſwer hereunto.</p>
+            <p>Theſe are to require you to deliver that place you now poſſeſſe, unto me for the end aforeſaid: whatſoever your return hereunto may be and the effect thereof, my Summons will juſtifie the future proceedings of</p>
+            <closer>
+               <signed>Your Servant, J. Hewſon.</signed>
+               <dateline>
+                  <date>28 Feb. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Governour of <hi>Belliſonan.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am now in poſſeſſion in this place by authority from my King, how you may demand it by authority from the Parliament of <hi>England,</hi> I know not: <hi>England</hi> denying their King, therefore your power I diſobey: And for <hi>God,</hi> my <hi>King,</hi> and <hi>Country,</hi> will defend this place to the uttermoſt of my power,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Servant Donno Kelly,</signed> 
+               <dateline>
+                  <date>28 Febru. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>For Col. <hi>Hewſon</hi> Commander in chiefe of the Parliament party now at the Field of <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lliſanon.</hi>
+            </trailer>
+         </div>
+         <div type="list_of_propositions">
+            <pb n="3" facs="tcp:115785:3"/>
+            <head>Propoſitions made by the Gariſon, which were rejected.</head>
+            <p>VVE doe hereby employ Governour <hi>Donno O Kelly,</hi> for the delivery of the hereunder Propoſitions to the Com<g ref="char:EOLhyphen"/>miſsioners Generall of the Parliaments Forces of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Imprimis,</hi> That the party commanding this Gariſon and Fort of <hi>Balliſonan,</hi> and all other that will adhere to them are really and wil<g ref="char:EOLhyphen"/>lingly to joyne to the Parliament Forces, upon ſuch termes as are hereunder written.</item>
+               <item>2 That a Collonel, Lieutenant Collonel, and a Major beſides Cap<g ref="char:EOLhyphen"/>taines, and under officers, he imployed of the ſaid party, conſtantly in the ſtanding Army, of the Parliaments Forces of this Kingdome; That in caſe any ſuch officers come in,</item>
+               <item>3 That they may have free liberty of their Religion and t<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Prieſts admitted and imployed for to ſerve the ſaid Regiment now intended.</item>
+               <item>4 That neither <hi>Taaffe,</hi> nor <hi>Dillon</hi> ſhall be accepted of in the Par<g ref="char:EOLhyphen"/>liaments party.</item>
+               <item>5 That their eſtates wrongfully detained and enjoyed by the ſaid <hi>Dillon, Bourne</hi> and <hi>Taaffes,</hi> may be allowed unto them by the ſtat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Parliament,</item>
+               <item>6 That their Arrears ſince <hi>May</hi> laſt, may be allowed them, this and the aforeſaid Propoſitions may be granted by the Generall, Lieu<g ref="char:EOLhyphen"/>tenant Generall, Major Generall, and Commiſsioners generall of the Parliament Forces of this Kingdom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that what thoſe Counties aſ<g ref="char:EOLhyphen"/>ſigned to them for their pay, are in Arreare ſince their comming to <hi>Balliſonan,</hi> may be forthwith cauſed to be paid.</item>
+               <item>7 That this granted they ſhall obey any deriving power from the State of Parliament.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>J. Gordon.</item>
+                     <item>Ch. Belly.</item>
+                     <item>Connor Belly.</item>
+                     <item>M. Donnogh.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>Col. <hi>Hewſons</hi> laſt Summons.</trailer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BLood I doe not thirſt after, yet ſo far a Souldier, as not to neglect preſent opportunity, I ſhall for the end in your Letter mentioned, ſend Captaine <hi>Hewſon</hi> according to your deſire, provided you ſend one or two fully Authoriſed to treat and conclude, and all to be concluded within halfe an houre, provided alſo you doe not worke at all to re<g ref="char:EOLhyphen"/>paire what my Guns, and Morter peece have demoliſhed; and to that
+<pb n="4" facs="tcp:115785:4"/>end that Cap. <hi>Hewſon</hi> may rem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the Mount duri<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that halfe houre. Sir, I ſhall be glad if your wiſdome prevent what ot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> avoidably will fall out, though not deſired by.</p>
+            <closer>
+               <signed>Your Servant I. Hewſon</signed>
+               <dateline>
+                  <date>1 March, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>TO avoyd the confuſion of Chriſtian blood we ſent out a Drum <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o demand a Parley, my deſire for the reaſons afor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſaid is, th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſend in a Captaine of your<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to tr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t with us, and we will ſend forth a Captaine of ours, who ſhall demand no more but what is honourable and juſt, and ſo Sir, I conclude;</p>
+            <closer>
+               <signed>Your Seruant: Donno kelly.</signed>
+               <dateline>
+                  <date>March 1. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_articles">
+            <head>Articles agreed upon: between the Honourable Col. <hi>John Hew<g ref="char:EOLhyphen"/>ſon</hi> of the one Part, and Captain <hi>Donno<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Kelly Go<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t</hi> of <hi>Belliſanon</hi> in the County of <hi>Kildare</hi> of the other part. 1 <hi>March,</hi> 1649.</head>
+            <list>
+               <item>IMprimis, That the ſaid Garriſon and Fort of <hi>Belliſonan,</hi> ſhall bee immediately delivered with all the A<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nition, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therein, except as in the inſuing Article is agreed upon</item>
+               <item>2 That the ſaid Governour Officers and Souldiers, ſhall detaine in the Caſtle untill to morrow morning at ten of the clocke if they pleaſe and then they are to march out of the ſaid Caſtle and Fort with a Tr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>peter for Convoy Tenne miles if they deſire <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> next Iriſh Garriſons within ten miles <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> f<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ld, the Tr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r re<g ref="char:EOLhyphen"/>turning without any prejudice. And the ſaid Officers are <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> with their Horſes and Piſtolls, and with their Colours flying and Drums beating, and the Souldiers with their Ar<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and Muske<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lighted, and each Musketeer one pound of powder with Bullet and Match proportionable.</item>
+               <item>3 Whatſoever Oates and Peaſe ſhall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pp<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r to be in the Caſtle belong<g ref="char:EOLhyphen"/>ing to Mis. <hi>Fitz Gerald</hi> ſhall be reſtored to her</item>
+               <item>And laſtly, for the due performing of the aforeſaid Articles, doe hereunto ſet our Hands the day and yeare firſt above written<g ref="char:punc">▪</g>
+               </item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Hew<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</item>
+                     <item>Donno. Kelly</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:115785:4"/>
+            <head>For the right Honourable <hi>William Lenthall</hi> Eſquire, Speaker in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>UPon the ſixth inſtant, (information being given that five Compa<g ref="char:EOLhyphen"/>nies of the Enemies Foot were come to Poores Court about eight miles from hence, on Wickloe ſide) a Party was ſent from this place under the command of Sir <hi>Theophilus Iones</hi> to beat them our, or fight them, but before our Party got thither they demoliſht all the buil<g ref="char:EOLhyphen"/>dings, they pull'd down the very walls, and fled away into the woods; we cannot keep any Garriſon there, becauſe there is no manner of ſhelter for our men there.</p>
+            <p>The tenth inſtant, Letters from Sir <hi>Charles Coote</hi> (then at Belfaſt) brought the newes of reducing Caſtle Dooe.</p>
+            <p>There was lately a generall Counſell of the Clergy at <hi>Kilkenny,</hi> who treated upon Propoſitions preſented amongſt themſelves for carrying on of the War.</p>
+            <p>The Plague continues in Galway, where there hath neare twenty thouſand dyed ſince, the firſt of <hi>Auguſt</hi> laſt; moſt of their Gentry there have periſht by it, among the reſt <hi>Ieffery Browne,</hi> heretofore a Practiſer at Law in England, Sir <hi>Richard Blague,</hi> both prime actors, and chiefe in the ſupreame Counſell, with many others of their moſt eminent contrivers of the Rebellion are dead.</p>
+            <p>
+               <hi>Ormond</hi> was lately at Portumny with the Earle of <hi>Clanrickard</hi> in Conaught.</p>
+            <p>On Wedneſday laſt, Captaine <hi>Molineux</hi> arrived here from Wexford, who brings the newes of our taking the Fort of Bally-haoke, over a<g ref="char:EOLhyphen"/>gainſt Paſſage upon the River of Waterford, ſo that all trading by Sea to Waterford is wholly ſtopt up; beſides, there is a very great feare and jealouſie, between the Towneſ-men of Waterford, and the Souldi<g ref="char:EOLhyphen"/>ers there who are of the Northerne Iriſh.</p>
+            <p>We have certaine newes from Munſter, that my Lord Lievtenant hath been in the Field this good while, and hath taken Caſhell and Callan (the latter being within ſix miles of Kilkenny) with ſeverall other conſiderable Garriſons of the Rebbels about thoſe parts, and now about if not in Clonmell.</p>
+            <p>The Plague is very hot in Kilkenny.</p>
+            <p>The Toryes have behaved themselves ſo barbarouſly towards thoſe of their owne Party, that the Fryers and Prieſts have excommunica<g ref="char:EOLhyphen"/>ted them.</p>
+            <p>The Governour on Tueſday laſt marcht into the County of Kildare, and we hourely expect an accompt of the reducing of ſeverall conſide<g ref="char:EOLhyphen"/>rable Garriſons thereabout; great Guns are this day ſent from hence unto him, the extreame wants of accommodations of all kinds for our men will I feare weaken our Army, and impede the preſent carry<g ref="char:EOLhyphen"/>ing,
+<pb n="6" facs="tcp:115785:5"/>on of the ſervice in the neglect of this opportunity now the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemy is diſperſt and diſtracted, and a ſmall matter will now effect that which a farre greater will not hereafter; I have not elſe to trouble your Ho<g ref="char:EOLhyphen"/>nour, but humbly crave leave to reſt, Sir;</p>
+            <closer>
+               <signed>Your Honours moſt humble Servant <hi>William Baft.</hi>
+               </signed>
+               <dateline>Dublin <date>16 Feb. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Honourable <hi>William Lenthall</hi> Eſquire, Speaker in the Parlia<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IT hath pleaſed God exceedingly to bleſſe our Forces in th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, in their late march into the County of <hi>Kildare,</hi> where they have t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken in the Fort and Caſtle of <hi>Belleſonan</hi> by ſurrender, ſuprized <hi>Athy,</hi> being a Paſſe upon the Barrow, and a place of very great concernment, both for the enlarging of our Quarters, inveſting the enemy, and ſecuring a paſſe to joyne with my Lord if occaſion require. In all which t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erno<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r hath placed Garriſons; as alſo in <hi>K<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e</hi> being the Caſtle of the <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e of <hi>Allen,</hi> which the enemy had burnt and indeavoured to have <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed, upon the rumour of his advance from hence; but the workes are now rep<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>red and made tenable by ours.</p>
+            <p>Upon Saturday laſt he returned againe hither to <hi>Du<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> havin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Forces in the outquarters about the <hi>Na<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> but intends anot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſpeedy m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rch if accommodations may be by any meanes provided.</p>
+            <p>Our Forces about <hi>Wexford</hi> have recovered the Caſtle of <hi>I<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> which was yeelded unto them, And have taken <hi>Brown-wooll</hi> by Mort<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll with<g ref="char:EOLhyphen"/>in the latter were put to the ſword.</p>
+            <p>Col: <hi>Treavour</hi> hath by expreſſe ſent his reſolution to <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and hath leave from the Governour to come into our Quarters, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſtay untill my Lords pleaſure be further known.</p>
+            <p>I have not elſe to trouble your Honour but humbly rema<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e,</p>
+            <closer>
+               <dateline>Dublin <date>2 March, 1649.</date>
+               </dateline>
+               <signed>Your Honours <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <hi>WILLIAM BASTL.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Imprimatur.</p>
+               <closer>
+                  <signed>Hen: Scobell Cler. Parli<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
